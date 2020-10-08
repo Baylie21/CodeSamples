@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="359.2714285714286" y="0.0">Die</node>
+    <node x="588.0" y="286.0">Player</node>
+    <node x="0.0" y="231.0">Scoring</node>
+    <node x="369.0" y="758.0">Driver</node>
+    <node x="401.0" y="417.0">Die_B</node>
+    <node x="401.0" y="1209.0">Main</node>
+    <node x="215.0" y="417.0">Die_A</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Driver" target="Scoring">
+      <point x="-98.57142857142856" y="-200.5" />
+      <point x="385.42857142857144" y="738.0" />
+      <point x="48.75" y="738.0" />
+      <point x="-48.75" y="233.5" />
+    </edge>
+    <edge source="Main" target="Driver">
+      <point x="-41.5" y="-26.5" />
+      <point x="442.5" y="1184.0" />
+      <point x="426.5" y="1184.0" />
+      <point x="-57.5" y="200.5" />
+    </edge>
+    <edge source="Driver" target="Die_A">
+      <point x="-32.85714285714289" y="-200.5" />
+      <point x="451.1428571428571" y="718.0" />
+      <point x="298.0" y="718.0" />
+      <point x="0.0" y="47.5" />
+    </edge>
+    <edge source="Driver" target="Die_B">
+      <point x="0.0" y="-200.5" />
+      <point x="0.0" y="47.5" />
+    </edge>
+    <edge source="Driver" target="Die">
+      <point x="32.85714285714283" y="-200.5" />
+      <point x="516.8571428571429" y="718.0" />
+      <point x="577.5" y="718.0" />
+      <point x="577.5" y="201.0" />
+      <point x="517.6714285714286" y="201.0" />
+      <point x="70.39999999999998" y="90.5" />
+    </edge>
+    <edge source="Driver" target="Player">
+      <point x="98.57142857142856" y="-200.5" />
+      <point x="582.5714285714286" y="738.0" />
+      <point x="729.0" y="738.0" />
+      <point x="47.0" y="178.5" />
+    </edge>
+    <edge source="Die_B" target="Die">
+      <point x="-41.5" y="-47.5" />
+      <point x="442.5" y="211.0" />
+      <point x="447.2714285714286" y="211.0" />
+      <point x="0.0" y="90.5" />
+    </edge>
+    <edge source="Die_A" target="Die">
+      <point x="-41.5" y="-47.5" />
+      <point x="256.5" y="201.0" />
+      <point x="376.8714285714286" y="201.0" />
+      <point x="-70.39999999999998" y="90.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.4821884464734058" x="388.0000000000001" y="631.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>Open Files</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
