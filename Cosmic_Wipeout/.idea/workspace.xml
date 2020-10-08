@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f44ca01-c283-48a5-968f-57a821a338b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Baylie.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cosmic_Wipeout.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Cosmic_Wipeout.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Cosmic_Wipeout/DicePanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Cosmic_Wipeout/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Cosmic_Wipeout/Driver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Cosmic_Wipeout/Main_Display$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Cosmic_Wipeout/Main_Display$Die.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Cosmic_Wipeout/Main_Display.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Cosmic_Wipeout/Mock_Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Cosmic_Wipeout/Mock_Driver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Cosmic_Wipeout/Player$STATE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Cosmic_Wipeout/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Cosmic_Wipeout/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Cosmic_Wipeout/Player_Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Cosmic_Wipeout/Player_Human.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Cosmic_Wipeout/Scoring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Cosmic_Wipeout/Scoring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DicePanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main_Display.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main_Display.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Mock_Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Mock_Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Player_Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Player_Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Scoring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Scoring.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="FxmlFile" />
+        <option value="JavaFXApplication" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1XPDL1tPHEU8iYDm11hBe1QIgdj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HelloFX">
+    <configuration name="DicePanel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DicePanel" />
+      <module name="Cosmic_Wipeout" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloFX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloFX" />
+      <module name="Cosmic_Wipeout" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Cosmic_Wipeout" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main_Display" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main_Display" />
+      <module name="Cosmic_Wipeout" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Player_Human" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Player_Human" />
+      <module name="Cosmic_Wipeout" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloFX" />
+        <item itemvalue="Application.Main_Display" />
+        <item itemvalue="Application.DicePanel" />
+        <item itemvalue="Application.Player_Human" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f44ca01-c283-48a5-968f-57a821a338b2" name="Default Changelist" comment="" />
+      <created>1580938776594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580938776594</updated>
+      <workItem from="1581320556245" duration="1337000" />
+      <workItem from="1581322150924" duration="7036000" />
+      <workItem from="1581454805630" duration="322000" />
+      <workItem from="1581541367717" duration="3893000" />
+      <workItem from="1582151370993" duration="299000" />
+      <workItem from="1582580202058" duration="17595000" />
+      <workItem from="1583188311728" duration="3429000" />
+      <workItem from="1585250845023" duration="3613000" />
+      <workItem from="1586202013923" duration="1061000" />
+      <workItem from="1586983382381" duration="12492000" />
+      <workItem from="1587020160469" duration="1266000" />
+    </task>
+    <task id="LOCAL-00001" summary="Updated UML chart">
+      <created>1583442542473</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583442542473</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated UML chart" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated UML chart" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="108" key="#com.intellij.ide.util.MemberChooser" timestamp="1582814375548">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="451" y="108" key="#com.intellij.ide.util.MemberChooser/0.23.1280.777/1280.-1112.2560.1417@0.23.1280.777" timestamp="1582814375548" />
+    <state x="137" y="23" width="1011" height="777" key="CommitChangelistDialog2" timestamp="1583442542108">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="137" y="23" width="1011" height="777" key="CommitChangelistDialog2/0.23.1280.777@0.23.1280.777" timestamp="1583442542108" />
+    <state x="489" y="292" key="Github.ShareDialog" timestamp="1581321895718">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="489" y="292" key="Github.ShareDialog/0.23.1280.777/1280.-949.2560.1417@0.23.1280.777" timestamp="1581321895718" />
+    <state width="1218" height="72" key="GridCell.Tab.0.bottom" timestamp="1587021580446">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1218" height="152" key="GridCell.Tab.0.bottom/0.23.1280.777/1280.-1112.2560.1417@0.23.1280.777" timestamp="1586277754341" />
+    <state width="1218" height="184" key="GridCell.Tab.0.bottom/0.23.1280.777/1280.-949.2560.1417@0.23.1280.777" timestamp="1581321937589" />
+    <state width="1218" height="72" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1587021580446" />
+    <state width="1218" height="72" key="GridCell.Tab.0.center" timestamp="1587021580445">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1218" height="152" key="GridCell.Tab.0.center/0.23.1280.777/1280.-1112.2560.1417@0.23.1280.777" timestamp="1586277754338" />
+    <state width="1218" height="184" key="GridCell.Tab.0.center/0.23.1280.777/1280.-949.2560.1417@0.23.1280.777" timestamp="1581321937588" />
+    <state width="1218" height="72" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1587021580445" />
+    <state width="1218" height="72" key="GridCell.Tab.0.left" timestamp="1587021580445">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1218" height="152" key="GridCell.Tab.0.left/0.23.1280.777/1280.-1112.2560.1417@0.23.1280.777" timestamp="1586277754336" />
+    <state width="1218" height="184" key="GridCell.Tab.0.left/0.23.1280.777/1280.-949.2560.1417@0.23.1280.777" timestamp="1581321937588" />
+    <state width="1218" height="72" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1587021580445" />
+    <state width="1218" height="72" key="GridCell.Tab.0.right" timestamp="1587021580445">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1218" height="152" key="GridCell.Tab.0.right/0.23.1280.777/1280.-1112.2560.1417@0.23.1280.777" timestamp="1586277754340" />
+    <state width="1218" height="184" key="GridCell.Tab.0.right/0.23.1280.777/1280.-949.2560.1417@0.23.1280.777" timestamp="1581321937589" />
+    <state width="1218" height="72" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1587021580445" />
+    <state x="144" y="23" key="SettingsEditor" timestamp="1587020200423">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="144" y="30" key="SettingsEditor/0.23.1280.777/1280.-949.2560.1417@0.23.1280.777" timestamp="1581321754243" />
+    <state x="144" y="23" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1587020200423" />
+    <state x="236" y="131" key="Vcs.Push.Dialog.v2" timestamp="1583442549274">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="236" y="131" key="Vcs.Push.Dialog.v2/0.23.1280.777@0.23.1280.777" timestamp="1583442549274" />
+    <state x="317" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1586983390634">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="317" y="244" key="com.intellij.ide.util.TipDialog/0.23.1280.777/1280.-949.2560.1417@0.23.1280.777" timestamp="1581322153808" />
+    <state x="317" y="244" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1586983390634" />
+    <state x="426" y="315" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1581545160392">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="426" y="315" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.777@0.23.1280.777" timestamp="1581545160392" />
+    <state x="1353" y="-770" width="1380" height="909" key="dock-window-1" timestamp="1582816319581">
+      <screen x="1280" y="-1112" width="2560" height="1417" />
+    </state>
+    <state x="1353" y="-770" width="1380" height="909" key="dock-window-1/0.23.1280.777/1280.-1112.2560.1417@0.23.1280.777" timestamp="1582816319581" />
+  </component>
+</project>
