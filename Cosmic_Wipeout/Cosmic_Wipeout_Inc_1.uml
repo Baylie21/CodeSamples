@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="156.1428571428572" y="0.0">Die</node>
+    <node x="373.00000000000006" y="231.0">Player</node>
+    <node x="266.67619047619047" y="660.0">Driver</node>
+    <node x="186.00000000000006" y="373.0">Die_B</node>
+    <node x="299.2785714285714" y="1045.0">Main</node>
+    <node x="0.0" y="373.0">Die_A</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Main" target="Driver">
+      <point x="-41.49999999999997" y="-26.5" />
+      <point x="340.77857142857147" y="1020.0" />
+      <point x="324.17619047619047" y="1020.0" />
+      <point x="-57.5" y="167.5" />
+    </edge>
+    <edge source="Driver" target="Die_A">
+      <point x="-95.83333333333331" y="-167.5" />
+      <point x="285.84285714285716" y="640.0" />
+      <point x="83.0" y="640.0" />
+      <point x="0.0" y="47.5" />
+    </edge>
+    <edge source="Driver" target="Die_B">
+      <point x="-57.49999999999997" y="-167.5" />
+      <point x="324.1761904761905" y="630.0" />
+      <point x="269.00000000000006" y="630.0" />
+      <point x="0.0" y="47.5" />
+    </edge>
+    <edge source="Driver" target="Die">
+      <point x="-19.16666666666663" y="-167.5" />
+      <point x="362.50000000000006" y="201.0" />
+      <point x="314.5428571428572" y="201.0" />
+      <point x="70.39999999999998" y="90.5" />
+    </edge>
+    <edge source="Driver" target="Player">
+      <point x="19.166666666666714" y="-167.5" />
+      <point x="400.8428571428572" y="640.0" />
+      <point x="404.33333333333337" y="640.0" />
+      <point x="-62.666666666666664" y="189.5" />
+    </edge>
+    <edge source="Die_B" target="Die">
+      <point x="-41.5" y="-47.5" />
+      <point x="227.50000000000006" y="211.0" />
+      <point x="244.1428571428572" y="211.0" />
+      <point x="0.0" y="90.5" />
+    </edge>
+    <edge source="Die_A" target="Die">
+      <point x="-41.5" y="-47.5" />
+      <point x="41.5" y="201.0" />
+      <point x="173.74285714285722" y="201.0" />
+      <point x="-70.39999999999998" y="90.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.5272727272727273" x="281.5" y="374.99999999999994" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>Open Files</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
